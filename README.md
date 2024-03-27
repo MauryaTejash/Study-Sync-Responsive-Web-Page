@@ -1,3 +1,6 @@
+# The output of project is--
+https://mauryatejash.github.io/Study-Sync-Responsive-Web-Page/
+
 # Study-Sync-Responsive-Web-Page
 Some screenshots of the output are
 # The first area is for Header and Nav section.
